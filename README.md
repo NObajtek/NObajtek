@@ -1,5 +1,5 @@
 
-👨‍💻 R language, Python
+👨‍💻 R, Python
 
 🔭 machine learning & artificial intelligence
 
