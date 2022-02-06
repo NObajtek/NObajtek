@@ -1,4 +1,7 @@
-### Hi there 👋
+
+👨‍💻 R language, Python
+
+🔭 machine learning & artificial intelligence in pharmaceutical sciences
 
 <!--
 **NObajtek/NObajtek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
